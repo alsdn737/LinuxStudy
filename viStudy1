@@ -1,3 +1,4 @@
+2019.12.2 月曜日
 1. 터미널 열기
 2. 기본 단축키는 Command + Space Bar 현재 내 맥북 설정은 Option + Space Bar
 3. vi (파일이름)
@@ -5,3 +6,9 @@
 5. esc
 6. :w
 7. 작성했던 경로에서 파일 생성된 것 확인
+
+2019.12.3水曜日
+1. Terminal에서 git최신화 하는 단축키 : git pull
+2. -Dmaven.test.skip = true 입력하면 Terminal에서 maven clean install에서 테스트에러 걸리지 않음
+3. redir -rf 같이 rf입력하면 안에 내용물이 남이있는 폴더도 지음
+
