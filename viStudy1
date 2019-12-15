@@ -27,3 +27,9 @@ package랑 다른 점은 local repo에 패키지를 생성해서, local repo에 
 mvn clean package
 mvn clean install 
 두 명령어 모두 target folder를 제거 
+
+12월 15일 일요일
+tail 명령어 실시간으로 로그보기
+
+source명령어 기능 조사하기
+
